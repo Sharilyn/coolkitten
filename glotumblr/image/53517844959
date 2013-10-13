@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Glomento: Photo</title>
+    <meta charset="utf-8">
+    <meta http-equiv="x-dns-prefetch-control" content="off">
+    <meta name="apple-itunes-app" content="app-id=305343404,app-argument=tumblr://x-callback-url/photo?referrer=smart-app-banner">
+    <link type="text/css" rel="stylesheet" media="screen" href="http://assets.tumblr.com/assets/styles/blue_bar.css?_v=ddec79d116a525866c87366750dd1266">
+<link type="text/css" rel="stylesheet" media="screen" href="http://assets.tumblr.com/assets/styles/single_media.css?_v=842cbae407866aad9ff95f4aaa45163c">
+<script type="text/javascript" src="http://assets.tumblr.com/assets/scripts/vendor/jquery/jquery-1.10.2.js?_v=0127e7365d8ce79720eca77269792deb"></script>
+<script type="text/javascript" src="http://assets.tumblr.com/assets/scripts/single_media_image.js?_v=d823cadf12e6b033e0787fcba3206eca"></script>
+</head>
+<body class="single_image ">
+    
+    <div id="nav_image" class="blue_bar dark_gray">
+        <a href="http://globurg.tumblr.com/post/53517844959/small-updates-this-week-including-events" class="title">
+            <span id="back_to_blog"></span>
+            <img class="avatar" src="http://assets.tumblr.com/images/default_avatar/pyramid_open_40.png" alt="" />
+            <h1 class="blog_title">Glomento</h1>
+        </a>
+        <div id="register" class="nav_right">
+                        <iframe scrolling="no" frameborder="0" id="tumblr_controls" src="http://assets.tumblr.com/assets/html/archive_iframe.html?_v=a567d62eb572009ed68d4a4505171a70#src=http%3A%2F%2Fgloburg.tumblr.com%2Fimage%2F53517844959&amp;name=globurg" width="400" height="28" style="border:0; background-color:transparent; overflow:hidden; " allowtransparency="true"></iframe>        </div>
+    </div>
+    <div id="save_image" class="hide-off-screen">
+        <form id="save_form" method="post" target="save_iframe"><input type="hidden" name="dl" value="1"></form>
+        <iframe id="save_iframe" name="save_iframe" frameborder="0" width="1" height="1"></iframe>
+    </div>
+
+<div id="content">
+    <div id="content-wrapper">
+        <img id="content-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://25.media.tumblr.com/3bcd1e25e4faa89c025c89f8db88f204/tumblr_moqz7vMJHP1svgtoio1_1280.png" data-height="392" data-width="906">
+    </div>
+</div>
+<div id="loader" class="Knight-Rider-loader centered"><div class="Knight-Rider-bar"></div><div class="Knight-Rider-bar"></div><div class="Knight-Rider-bar"></div></div>
+    
+<iframe src="http://assets.tumblr.com/analytics.html?24dd99cdd6b147f74d7b795ff466a978" scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0 z-index:9999;" id="ga_target"></iframe>
+
+    <script>
+        var COMSCORE = true;
+        window.setTimeout(function() {
+            var analytics_frame = document.getElementById('ga_target');
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }, 1000);
+    </script>
+
+
+
+    <script type="text/javascript">
+      var _qevents = _qevents || [];
+
+      (function() {
+       var elem = document.createElement('script');
+
+       elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+       elem.async = true;
+       elem.type = "text/javascript";
+       var scpt = document.getElementsByTagName('script')[0];
+       scpt.parentNode.insertBefore(elem, scpt);
+      })();
+    </script>
+    <script type="text/javascript">
+        _qevents.push( { qacct: 'p-19UtqE8ngoZbM' } );
+    </script>
+    <noscript>
+        <div style="display: none;"><img src="//pixel.quantserve.com/pixel/'p-19UtqE8ngoZbM'.gif" height="1" width="1" alt="Quantcast"/></div>
+    </noscript>
+
+
+    <script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1381259394&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvZ2xvYnVyZy50dW1ibHIuY29tXC9pbWFnZVwvNTM1MTc4NDQ5NTkiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvaW1hZ2VcLzpwb3N0X2lkIn0=&U=INDEKDFNJO&K=21e6bfd17c45e12e3da065f88dccfbad29ee6916df68b71f75f156e1ef39bb45&R=http%3A%2F%2Fgloburg.tumblr.com%2F'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1381259394&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvZ2xvYnVyZy50dW1ibHIuY29tXC9pbWFnZVwvNTM1MTc4NDQ5NTkiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvaW1hZ2VcLzpwb3N0X2lkIiwibm9zY3JpcHQiOjF9&U=INDEKDFNJO&K=3374a16f33ad45fbab6ce552821b973ce825fbb0cff2482ea3829aaab8ea9c28&R=http%3A%2F%2Fgloburg.tumblr.com%2F"></noscript>
+
+</body>
+</html>

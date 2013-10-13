@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta http-equiv="x-dns-prefetch-control" content="off"/>
+        <title>Glomento: Archive</title>
+        
+                    <link rel="icon" href="http://assets.tumblr.com/images/default_avatar/pyramid_open_128.png" type="image/png"/>
+                
+        <link type="text/css" rel="stylesheet" media="screen" href="http://assets.tumblr.com/assets/styles/archive.css?_v=0bcef98b5f568b213c9f3995ebe67624">        <script type="text/javascript" src="http://assets.tumblr.com/assets/scripts/vendor/jquery_backbone_lodash.js?_v=516189241e20ed89c09bc725b8ac45cf"></script>        <script type="text/javascript" src="http://assets.tumblr.com/assets/scripts/archive/archive.js?_v=85e45ca2625944e6603311ccdd8bcff7"></script>        <script>
+            var l10n_str = l10n_str || {},
+            just_clicked_browse_months = false,
+            is_mobile = RegExp(" Mobile/").test(navigator.userAgent);
+        </script>
+        <!--[if lt IE 9]>
+           <script>
+              document.createElement('header');
+              document.createElement('nav');
+              document.createElement('section');
+              document.createElement('article');
+              document.createElement('aside');
+              document.createElement('footer');
+           </script>
+        <![endif]-->
+    </head>
+    <body id="body">
+        <header id="nav_archive" class="blue_bar">
+            <a href="/" class="title">
+                <span id="back_to_blog"></span>
+                                    <img class="avatar" src="http://assets.tumblr.com/images/default_avatar/pyramid_open_40.png" alt="" />
+                                <h1 class="blog_title">Glomento</h1>
+            </a>
+            
+                            <div id="browse_months">
+                    <div id="jump_to_month">
+                        <span class="month">Month </span>
+                        <span class="arrow"></span>
+                    </div>
+                </div>
+                        
+                            <nav id="register" class="nav_right">
+                                        
+                    <iframe scrolling="no" frameborder="0" id="tumblr_controls" src="http://assets.tumblr.com/assets/html/archive_iframe.html?_v=a567d62eb572009ed68d4a4505171a70#src=http%3A%2F%2Fgloburg.tumblr.com%2Farchive%3Fbefore_time%3D1371231817&amp;name=globurg" width="400" height="28" style="border:0; background-color:transparent; overflow:hidden; "></iframe>                </nav>
+                    </header>
+        
+                    <div id="no_posts_yet">
+                No posts yet.            </div>
+                
+                        
+<iframe src="http://assets.tumblr.com/analytics.html?24dd99cdd6b147f74d7b795ff466a978" scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0 z-index:9999;" id="ga_target"></iframe>
+
+    <script>
+        var COMSCORE = true;
+        window.setTimeout(function() {
+            var analytics_frame = document.getElementById('ga_target');
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }, 1000);
+    </script>
+
+
+
+    <script type="text/javascript">
+      var _qevents = _qevents || [];
+
+      (function() {
+       var elem = document.createElement('script');
+
+       elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+       elem.async = true;
+       elem.type = "text/javascript";
+       var scpt = document.getElementsByTagName('script')[0];
+       scpt.parentNode.insertBefore(elem, scpt);
+      })();
+    </script>
+    <script type="text/javascript">
+        _qevents.push( { qacct: 'p-19UtqE8ngoZbM' } );
+    </script>
+    <noscript>
+        <div style="display: none;"><img src="//pixel.quantserve.com/pixel/'p-19UtqE8ngoZbM'.gif" height="1" width="1" alt="Quantcast"/></div>
+    </noscript>
+
+
+    <script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1381259401&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvZ2xvYnVyZy50dW1ibHIuY29tXC9hcmNoaXZlP2JlZm9yZV90aW1lPTEzNzEyMzE4MTciLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvYXJjaGl2ZSJ9&U=NNNLFIKAIB&K=6cc1fc3186c91fe772ac9cefd086cce188f5f8d843051781c4bc938c84824ed8&R=http%3A%2F%2Fgloburg.tumblr.com%2Farchive'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1381259401&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvZ2xvYnVyZy50dW1ibHIuY29tXC9hcmNoaXZlP2JlZm9yZV90aW1lPTEzNzEyMzE4MTciLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvYXJjaGl2ZSIsIm5vc2NyaXB0IjoxfQ==&U=NNNLFIKAIB&K=72fa60a4e07d7cd890b08bcdc0b5210910264ab3b9c47250a27e4914181a473b&R=http%3A%2F%2Fgloburg.tumblr.com%2Farchive"></noscript>
+
+                        
+        
+                    <div id="browse_months_widget" class="popover popover_gradient" style="display:none">
+                <div class="popover_inner">
+                                    <section id="year_2013" class="year" style="display:block">
+                        <header class="year_navigation">
+                                                            <div class="previous_year"><span></span></div>
+                                                        <span class="current_year">2013</span>
+                                                            <div class="next_year"><span></span></div>
+                                                        <div class="clear"></div>
+                        </header>
+                        <nav class="months">
+                            <ul>
+                                                                                                <li class="empty"><span>January</span></li>
+                                                                                                                                <li class="empty"><span>February</span></li>
+                                                                                                                                <li class="empty"><span>March</span></li>
+                                                                                                                                <li class="empty"><span>April</span></li>
+                                                                                                                                <li class="empty"><span>May</span></li>
+                                                                                                                                <li>
+                                        <a href="/archive/2013/6">June</a>
+                                                                                    <span class="count">5</span>
+                                                                            </li>
+                                                                                                                                <li>
+                                        <a href="/archive/2013/7">July</a>
+                                                                                    <span class="count">4</span>
+                                                                            </li>
+                                                                                                                                <li class="empty"><span>August</span></li>
+                                                                                                                                <li class="empty"><span>September</span></li>
+                                                                                                                                <li class="empty"><span>October</span></li>
+                                                                                                                                <li class="empty"><span>November</span></li>
+                                                                                                                                <li class="empty"><span>December</span></li>
+                                                                                        </ul>
+                        </nav>
+                    </section>
+                                </div>
+            </div>
+            </body>
+</html>

@@ -1,0 +1,141 @@
+
+<!DOCTYPE HTML><html><head><meta name="robots" content="noindex,nofollow"></meta>
+
+<style type="text/css">
+        body {
+            background: transparent;
+            padding: 0;
+            margin: 0;
+            overflow: hidden;
+        }
+        
+        .shadow {
+            padding: 5px 10px;
+        }
+        
+        img, a img {
+            border-width: 0;
+            -webkit-tap-highlight-color: rgba(0,0,0,0); 
+        }
+        
+        .shadow a {
+            -webkit-box-shadow:  0px 0px 3px 1px rgba(0, 0, 0, 0.4);
+            box-shadow:  0px 0px 3px 1px rgba(0, 0, 0, 0.4);
+        }
+    
+    .photoset {
+        -moz-transform-origin: 0 0;
+    }
+    
+    .photoset .photoset_row {
+        width: 500px;
+        white-space: nowrap;
+        overflow: hidden;
+        margin-top: 10px;
+    }
+    
+    .photoset.shadow .photoset_row {
+        overflow: visible;
+    }
+    
+    .photoset.mobile .photoset_row {
+        margin-top: 17px;
+    }
+    
+    .photoset .photoset_row:first-child {
+        margin-top: 0;
+    }
+    
+        .photoset .photoset_row .photoset_photo {
+            display: inline-block;
+            vertical-align: top;
+            margin-left: 10px;
+        }
+        
+        .photoset.mobile .photoset_row .photoset_photo {
+            margin-left: 17px;
+        }
+        
+        .photoset.shadow .photoset_row .photoset_photo {
+            display: inline-block;
+            overflow: hidden;
+        }
+        
+        .photoset .photoset_row .photoset_photo:first-child {
+            margin-left: 0 !important;
+        }
+        
+    #posts .photoset .photoset_row .photoset_photo img
+    {
+        max-width: none;
+    }
+    
+</style>
+
+</head><body>
+<div id="photoset_56517993510" class="photoset"
+style="margin-bottom:0px;">
+        
+                    
+
+        <div class="photoset_row photoset_row_1" style="height:569px; width:500px;">
+            <a
+                href="http://24.media.tumblr.com/151478905c1c84480b4376383bebb2bb/tumblr_mqjs1ceCli1svgtoio1_1280.png" class="photoset_photo"                id="photoset_link_56517993510_1"><img style="
+                                        width:500px;
+                " src="http://24.media.tumblr.com/151478905c1c84480b4376383bebb2bb/tumblr_mqjs1ceCli1svgtoio1_500.png"
+                alt="Biography tab" /></a>        </div>
+                    
+
+        <div class="photoset_row photoset_row_2" style="height:232px; width:500px;">
+            <a
+                href="http://25.media.tumblr.com/e3022349f2931434bf1870f396f0fdde/tumblr_mqjs1ceCli1svgtoio2_1280.png" class="photoset_photo"                id="photoset_link_56517993510_2"><img style="
+                                        width:245px;
+                " src="http://25.media.tumblr.com/e3022349f2931434bf1870f396f0fdde/tumblr_mqjs1ceCli1svgtoio2_250.png"
+                alt="Touring Schedule tab" /></a><a
+                href="http://24.media.tumblr.com/52b288594e466746a4ac972eaeca3d7b/tumblr_mqjs1ceCli1svgtoio3_1280.png" class="photoset_photo"                id="photoset_link_56517993510_3"><img style="
+                                            margin-top:-3px;
+                                        width:245px;
+                " src="http://25.media.tumblr.com/52b288594e466746a4ac972eaeca3d7b/tumblr_mqjs1ceCli1svgtoio3_250.png"
+                alt="Similar Artists tab" /></a>        </div>
+    </div>
+
+<script type="text/javascript" class="inline_embed">
+    var domain = document.domain, 
+        photoset_id = 56517993510, 
+        photoset_photos_56517993510 = [{"width":"1087","height":"1236","low_res":"http:\/\/24.media.tumblr.com\/151478905c1c84480b4376383bebb2bb\/tumblr_mqjs1ceCli1svgtoio1_500.png","high_res":"http:\/\/24.media.tumblr.com\/151478905c1c84480b4376383bebb2bb\/tumblr_mqjs1ceCli1svgtoio1_1280.png","caption":"Biography tab"},{"width":"1088","height":"1032","low_res":"http:\/\/25.media.tumblr.com\/e3022349f2931434bf1870f396f0fdde\/tumblr_mqjs1ceCli1svgtoio2_250.png","high_res":"http:\/\/25.media.tumblr.com\/e3022349f2931434bf1870f396f0fdde\/tumblr_mqjs1ceCli1svgtoio2_1280.png","caption":"Touring Schedule tab"},{"width":"1069","height":"1040","low_res":"http:\/\/25.media.tumblr.com\/52b288594e466746a4ac972eaeca3d7b\/tumblr_mqjs1ceCli1svgtoio3_250.png","high_res":"http:\/\/24.media.tumblr.com\/52b288594e466746a4ac972eaeca3d7b\/tumblr_mqjs1ceCli1svgtoio3_1280.png","caption":"Similar Artists tab"}];
+        
+    function event_is_alt_key(e) {
+        return (
+            (! e && window.event && (window.event.metaKey || window.event.altKey)) ||
+            (e && (e.metaKey || e.altKey))
+        );
+    };
+    
+            document.getElementById('photoset_link_56517993510_1').onclick = function(e){
+            if (event_is_alt_key(e)) return true;
+            
+            window.parent.Tumblr.Lightbox.init(
+                photoset_photos_56517993510, 1            );
+            
+            return false;
+        }
+            document.getElementById('photoset_link_56517993510_2').onclick = function(e){
+            if (event_is_alt_key(e)) return true;
+            
+            window.parent.Tumblr.Lightbox.init(
+                photoset_photos_56517993510, 2            );
+            
+            return false;
+        }
+            document.getElementById('photoset_link_56517993510_3').onclick = function(e){
+            if (event_is_alt_key(e)) return true;
+            
+            window.parent.Tumblr.Lightbox.init(
+                photoset_photos_56517993510, 3            );
+            
+            return false;
+        }
+        
+    </script>
+
+</body></html>
